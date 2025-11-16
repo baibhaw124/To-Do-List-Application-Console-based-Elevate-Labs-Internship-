@@ -26,7 +26,7 @@ This is a simple console-based To-Do List Application created as part of Elevate
 4. Choose options from the menu.
 
 ## Files
-- todo.py → Main program
+- to_do.py → Main program
 - tasks.txt → Stores tasks
 
 ## Author
